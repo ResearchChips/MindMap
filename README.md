@@ -2,6 +2,8 @@
 
 > "One diagram is worth a thousand words."
 
+📖 中文版本请见：[README_zh.md](./README_zh.md)
+
 📌 **MindMap** is a collaborative academic repository for collecting and organizing **research idea diagrams**, **article summary sketches**, and **visual concept maps** from multiple contributors. These visual artifacts serve as structured blueprints for understanding complex papers, designing new ideas, and accelerating literature digestion.
 
 ---
@@ -43,7 +45,7 @@ MindMap/
 
 ---
 
-## 🔧 Tools & Extensions (Coming Soon)
+## 🔧 Tools & Extensions
 
 🛠️ Useful diagramming tools and academic visual styles:
 - [draw.io](https://draw.io)
