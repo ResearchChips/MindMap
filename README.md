@@ -67,8 +67,7 @@ This repository aims to:
 
 ## 📬 Contact & Acknowledgments
 
-Maintained by: [Contributors List](./CONTRIBUTORS.md)  
-Questions or suggestions? Feel free to open an [issue](https://github.com/your-org/MindMap/issues) or start a discussion!
+Questions or suggestions? Feel free to open an [issue](https://github.com/ResearchChips/MindMap/issues) or start a discussion!
 
 ---
 
