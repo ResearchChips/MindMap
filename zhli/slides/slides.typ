@@ -18,7 +18,7 @@
   date: [April 21, 2025],
   speaker: [Zhihao Li],
   speaker-website: none, // use `none` to disable
-  slides-url: "zhihaoli.top", // use `none` to disable
+  slides-url: "https://lzhms.github.io/", // use `none` to disable
   qr-caption: text(font: "Excalifont")[About me],
   logo: image("images/idea.jpg"),
 )
@@ -60,6 +60,18 @@
   #figure(
     image("images/frameworks/img1.png", width: 65%)
   )
+  == Timeline—Research Survey
+  #figure(
+    image("images/frameworks/img2.png", width: 100%)
+  )
+  == Mind Map—Research Survey
+  #figure(
+    image("images/frameworks/img3.png", width: 70%)
+  )
+  == Style Diagram
+  #figure(
+    image("images/frameworks/img4.png", width: 80%)
+  )
 ]
 
 #slide[
@@ -77,6 +89,6 @@
   qr-caption: text(font: "Excalifont")[My project on GitHub],
   contact-appeal: [Get in touch #emoji.hand.wave],
   // leave out any of the following if they don't apply to you:
-  email: "zhihaoli@stu.xidian.edu.cn",
-  website: "https://zhihaoli.top"
+  email: "zhihaoli2003@outlook.com",
+  website: "https://lzhms.github.io/"
 )
